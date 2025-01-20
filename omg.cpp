@@ -6,6 +6,7 @@ void solve() {
     int a, b;
     cin >> a >> b;
     cout << ((a > b) ? b : a + b) << endl;
+    //holyshit！！
 }
 
 int main() {
